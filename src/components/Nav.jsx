@@ -1,5 +1,4 @@
 import { headerLogo } from "../assets/images"
-import {hamburger} from "../assets/icons"
 import { navLinks } from "../constants"
 import { useState } from "react"
 import {HiMenuAlt4, HiX} from 'react-icons/hi'
